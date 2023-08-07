@@ -190,5 +190,6 @@ func generateQuestionMark(n int) []string {
 		s = append(s, "?")
 	}
 
+	
 	return s
 }
